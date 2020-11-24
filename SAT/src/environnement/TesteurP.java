@@ -78,7 +78,7 @@ public class TesteurP {
 							X.add((ArrayList<Integer>) _X.clone());
 							j++;
 							_X.set(i, 0);
-							break;
+							//break;
 //							System.out.print(" ");
 //							System.out.print(_X);
 //							System.out.println();
@@ -91,7 +91,7 @@ public class TesteurP {
 							X.add((ArrayList<Integer>) _X.clone());
 							j++;
 							_X.set(i, 1);
-							break;
+							//break;
 //							System.out.print(" ");
 //							System.out.print(_X);
 //							System.out.println();
